@@ -1,3 +1,5 @@
+package org.example;
+
 public class Task3 {
     public static void main(String[] args) {
         int[] scores={55, 80, 78, 90, 95, 98};
